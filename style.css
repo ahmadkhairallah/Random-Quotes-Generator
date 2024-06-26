@@ -14,6 +14,10 @@ h1 {
   background-color: white;
   margin: 0;
   padding: 20px;
+  color: #43597d;
+  font-size: 40px;
+  letter-spacing: 5px;
+  font-weight: bold;
 }
 .general-container {
   position: relative;
@@ -27,7 +31,7 @@ h1 {
 .quote-id {
   width: 40px;
   height: 40px;
-  background-color: #43597D;
+  background-color: #43597d;
   border-radius: 50%;
   position: absolute;
   top: -20px;
@@ -75,12 +79,12 @@ h1 {
   color: white;
   font-weight: bold;
   border: none;
-  background-color: #7B8CA6;
+  background-color: #7b8ca6;
   border-radius: 7px;
   cursor: pointer;
 }
 .status-quotes {
-    text-align: center;
-    font-size: 20px;
-    letter-spacing: 5px;
+  text-align: center;
+  font-size: 20px;
+  letter-spacing: 5px;
 }
